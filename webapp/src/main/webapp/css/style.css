@@ -1,0 +1,21 @@
+body {
+    font-family: Monaco, arial;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    background-image: repeating-linear-gradient(
+      to bottom right,
+      #356783,
+      #f9f9f9,
+      rgb(167, 69, 121)
+    );
+  
+  }
+
+section {
+    padding: 2em;
+    background-color: white;
+    opacity: 80%;
+}
