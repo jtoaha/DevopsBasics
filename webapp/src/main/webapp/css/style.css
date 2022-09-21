@@ -3,7 +3,6 @@ body {
     width: 100%;
     display: flex;
     justify-content: space-around;
-    align-items: center;
     height: 100vh;
     background-image: repeating-linear-gradient(
       to bottom right,
@@ -15,6 +14,7 @@ body {
   }
 
 section {
+    text-align: center;
     padding: 2em;
     background-color: white;
     opacity: 80%;
