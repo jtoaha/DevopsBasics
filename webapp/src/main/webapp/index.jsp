@@ -10,7 +10,9 @@
 
   <img width="400" height="300" src="./jt-radial-string-art-lines12-weight8-no2.png"/>
 
-  <h1>Great course so far. Here is a working demo on my end</h1>
+  <h1>Great course so far. Update: Just completed this amazing course. Here is a working demo on my end. </h1>
 
   <h2>- Jamila Toaha</h2>
+
+  <img src="./line-stickers-animated-cat-celebrating.gif"/>
 </section>
